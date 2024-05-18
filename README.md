@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maynarde Joseph</h1>
 <h3 align="center">Software Engineering Student | Frontend Enthusiast</h3>
 
-- 🔭 I’m currently working on: **A Stock Trading Simulator🤖**
+- 🔭 I’m currently working on: **Building a portfolio website🤖**
 
-- 🌱 I’m currently learning: **Next.js and NextAuths**
+- 🌱 I’m currently learning: **Algorithms and C++**
 
 - 🤝 I’m looking to collaborate on: **Full stack projects**
 
