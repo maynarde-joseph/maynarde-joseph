@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maynarde Joseph</h1>
-<h3 align="center">Software Engineering Student | Frontend Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Fullstack Developer | Frontend Enthusiast</h3>
 
 - 🔭 I’m currently working on: **Building a portfolio website🤖**
 
