@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on: **Full stack projects**
 
-- 🤩 Check out my website! https://portfoliov2-gilt-seven.vercel.app/
+- 🤩 Check out my website! https://maynardejoseph.vercel.app/
      
 - 📧 Reach out to me: maynarde.joseph@gmail.com
 
