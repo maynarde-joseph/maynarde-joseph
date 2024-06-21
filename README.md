@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Image recognition project🤖**
 
-- 🌱 I’m currently learning: **C++**
+- 🌱 I’m currently learning: **C++ (mainly OpenCV)**
 
 - 🤝 I’m looking to collaborate on: **Full stack projects**
 
@@ -11,7 +11,7 @@
      
 - 📧 Reach out to me: maynarde.joseph@gmail.com
 
-- 💬 Ask me about: **Software Engineering, React and Algorithms!**
+- 💬 Ask me about: **Software Engineering, NextJS and Algorithms!**
 
 - ⚡ Fun fact: **I love snowboarding and reading manhwas/manhuas!**
 
