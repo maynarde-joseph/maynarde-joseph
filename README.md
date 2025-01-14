@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maynarde Joseph</h1>
 <h3 align="center">Software Engineering Student | Fullstack Developer</h3>
 
-- 🔭 I’m currently working on: **A first person shooter 🤖**
+- 🔭 I’m currently working on: **TikTok LIVE 🤖**
 
-- 🌱 I’m currently learning: **Unreal Engine Blueprints**
+- 🌱 I’m currently learning: **Improving my JavaScript skills**
 
 - 🤝 I’m looking to collaborate on: **Full stack projects**
 
