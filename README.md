@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maynarde Joseph</h1>
 <h3 align="center">Software Engineering Student | Fullstack Developer</h3>
 
-- 🔭 I’m currently working on: **A media creation tool 🤖**
+- 🔭 I’m currently working on: **Making a 2D platformer 🤖**
 
 - 🌱 I’m currently learning: **Improving my JavaScript skills**
 
